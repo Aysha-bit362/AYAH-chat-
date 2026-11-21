@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1026038814344",
+    "firebase_url": "https://ayah-chat-a1c06-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ayah-chat-a1c06",
+    "storage_bucket": "ayah-chat-a1c06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026038814344:android:577b6176d7c728364bb13d",
+        "android_client_info": {
+          "package_name": "com.ayahchat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWMbPMkCqlevuue5nR1vYMWCZROFlsowU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
